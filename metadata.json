@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study Planner",
+  "description": "An intelligent student productivity platform for personalized study plans, subject management, Pomodoro timer, exam countdown, and AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
